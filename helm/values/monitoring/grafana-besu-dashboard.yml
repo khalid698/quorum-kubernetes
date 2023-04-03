@@ -2,7 +2,7 @@ apiVersion: v1
 kind: ConfigMap
 metadata:
   name: grafana-besu-dashboard
-  namespace: besu
+  namespace: quorum
   labels:
     grafana_dashboard: "1"
 data:
