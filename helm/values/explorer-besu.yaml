@@ -6,7 +6,7 @@ image:
 
 resources:
   requests:
-    cpu: 1000m
+          #cpu: 500m
     memory: 1G
 
 # This contains the quorum-dev-quickstart test accounts but can be changed to the generated member accounts or your own choice
